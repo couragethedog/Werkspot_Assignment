@@ -1,5 +1,5 @@
 --	SYNTAX: BigQuery
---  Create Dimension Tables First
+--  	Create Dimension Tables First
 --	Step 1: Split the Metadata Column with underscore as Delimiter to get service related information
 --	Note: 'qp-q-looker-2020-04' is DB and 'Professionals_Base' is the name of the dataset here
 
